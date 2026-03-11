@@ -1,6 +1,6 @@
 public class hello{
   public static void main(String[]args){
     System.out.println("Hello from Java");
-    Syystem.out.println("Running through Jenkins");
+    System.out.println("Running through Jenkins");
   }
 }
